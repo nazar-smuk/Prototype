@@ -5,6 +5,7 @@ public class Main {
     public static void main(String[] args) {
 
         // test commit
+        // test commit 2
 
         Employer employer = new Employer("Nazar", 24);
 
